@@ -1,0 +1,23 @@
+input.search{
+    border-radius:0.3em 0 0 0.3em;
+    padding: 0.2em;
+   background-color: #32383e;
+   color: #fff;
+
+}
+input.search,button.bnt-search:focus{
+    border: 0 none;
+    outline: 0;
+}
+button.bnt-search{
+    border-radius:0 0.3em 0.3em 0;
+    background-color: #6c757d;
+    border: none;
+    padding: 0.2em .4em;
+}
+button.bnt-search:hover{
+    cursor: pointer;
+}
+{
+    
+}
